@@ -11,6 +11,11 @@ git revert HEAD - Deshace el último cambio (si pones HEAD~numero, deshaces el c
 git stash - Guarda cambios de manera temporal
 git checkout - Moverte entre commits
 git show - Inspeccionar el contenido de un commit sin cambiar a él
+git remote -v - Verificar si se está vinculado a un repositorio remoto
+git push - Enviar los cambios al repositorio remoto
+git fetch - Comprobar si hay cambios en el repositorio ajenos al nuestro
+git pull - Descargas los archivos del repositorio remoto
+git blame - Información de quien ha hecho los commits sobre un archivo
 
 git branch - Lista de las ramas
 git branch nombre - Creación de rama
